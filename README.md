@@ -29,4 +29,8 @@
 - 🚫 Mitigating National Security Risks of LLMs (Ongoing)
 
 ## Connect With Me
-- LinkedIn: www.linkedin.com/in/nancy-sharma-01691b2a8
+
+📧 Email: nancysharma11bh@gmail.com
+
+🔗 LinkedIn:
+www.linkedin.com/in/nancy-sharma-01691b2a8
