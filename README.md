@@ -24,7 +24,7 @@
 
 ## Projects
 - 📚 BookRight Manager  (https://github.com/Nancy-sharma01/bookright-Manager)
-- 🏴‍☠️ Treasure Hunt
+- 🏴‍☠️ Treasure Hunt  (https://github.com/Nancy-sharma01/Treasure-hunt)
 - 🤖 Exam Doubt Solver Chatbot  (uploading soon)
 - 🚫 AI Shield (Ongoing)
 
