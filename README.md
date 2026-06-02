@@ -12,6 +12,7 @@
 
 ## Skills
 
+- DSA
 - Python
 - SQL
 - Git & GitHub
@@ -19,6 +20,7 @@
 - LangChain
 - Ollama
 - JSON
+
 
 ## Projects
 - 📚 BookRight Manager
