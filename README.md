@@ -1,26 +1,30 @@
 # Hi, I'm Nancy Sharma 👋
 
-🎓 B.Tech CSE Student
+💻 CSE Student passionate about Python, AI, and problem-solving.
 
-💻 Python Developer
+🤖 Building AI & LLM-based applications
 
-📊 Interested in Data Analytics, AI and Automation
+📊 Exploring Data Analytics
 
-🚀 Currently preparing for internships and placements
+📚 Continuously learning and improving through projects
+
+🚀 Open to Internship Opportunities
 
 ## Skills
+
 - Python
 - SQL
 - Git & GitHub
 - Streamlit
 - LangChain
-- HTML/CSS
+- Ollama
+- JSON
 
 ## Projects
 - 📚 BookRight Manager
 - 🏴‍☠️ Treasure Hunt
 - 🤖 Exam Doubt Solver Chatbot
-- 🚫 Spam Detector (Ongoing)
+- 🚫 AI Shield (Ongoing)
 
 ## Connect With Me
 - LinkedIn: www.linkedin.com/in/nancy-sharma-01691b2a8
