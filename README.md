@@ -26,7 +26,7 @@
 - 📚 BookRight Manager  (https://github.com/Nancy-sharma01/bookright-Manager)
 - 🏴‍☠️ Treasure Hunt  (https://github.com/Nancy-sharma01/Treasure-hunt)
 - 🤖 Exam Doubt Solver Chatbot  (uploading soon)
-- 🚫 AI Shield (Ongoing)
+- 🚫 Mitigating National Security Risks of LLMs (Ongoing)
 
 ## Connect With Me
 - LinkedIn: www.linkedin.com/in/nancy-sharma-01691b2a8
