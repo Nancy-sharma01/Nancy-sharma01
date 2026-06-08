@@ -25,7 +25,7 @@
 ## Projects
 - 📚 BookRight Manager  (https://github.com/Nancy-sharma01/bookright-Manager)
 - 🏴‍☠️ Treasure Hunt  (https://github.com/Nancy-sharma01/Treasure-hunt)
-- 🤖 Exam Doubt Solver Chatbot  (uploading soon)
+- 🤖 Exam Doubt Solver Chatbot  (https://github.com/Nancy-sharma01/Exam_doubt_solver_chatbot)
 - 🚫 Mitigating National Security Risks of LLMs (Ongoing)
 
 ## Connect With Me
