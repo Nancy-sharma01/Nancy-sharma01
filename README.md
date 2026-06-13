@@ -40,6 +40,15 @@ Git, GitHub, VS Code
 
 ---
 
+## Currently Learning
+
+- Data Analytics
+- DSA in Python
+- Power BI
+- Machine Learning
+
+---
+
 ## Connect With Me
 
 📧 Email: nancysharma11bh@gmail.com
