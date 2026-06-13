@@ -10,17 +10,26 @@
 
 🚀 Open to Internship Opportunities
 
+---
+
 ## Skills
 
-- DSA
-- Python
-- SQL
-- Git & GitHub
-- Streamlit
-- LangChain
-- Ollama
-- JSON
+Languages:
+Python, SQL, C++
 
+Libraries:
+Pandas, NumPy, Matplotlib, Scikit-Learn
+
+AI:
+LangChain, Ollama, Prompt Engineering
+
+Web:
+HTML, CSS, Streamlit, Flask
+
+Tools:
+Git, GitHub, VS Code
+
+---
 
 ## Projects
 
@@ -28,10 +37,14 @@
 - 📚 [BookRight Manager](https://github.com/Nancy-sharma01/bookright-Manager)
 - 🗺️ [Treasure Hunt](https://github.com/Nancy-sharma01/Treasure-hunt)
 - 🚫 Mitigating National Security Risks of LLMs (Ongoing)
-  
+
+---
+
 ## Connect With Me
 
 📧 Email: nancysharma11bh@gmail.com
 
 🔗 LinkedIn:
 www.linkedin.com/in/nancy-sharma-01691b2a8
+
+---
