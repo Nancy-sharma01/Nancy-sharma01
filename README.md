@@ -24,8 +24,6 @@
 ### Languages
 - Python
 - SQL
-- C++
-- C
 
 ### Data Science
 - NumPy
