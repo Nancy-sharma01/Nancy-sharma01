@@ -77,11 +77,6 @@ A fun Python console game demonstrating problem-solving and programming fundamen
 
 ---
 
-### 🚫 Spam Detection *(Machine Learning)*
-Building a machine learning model to classify spam and legitimate messages.
-
----
-
 ## 📈 Current Learning Journey
 
 ✔️ Data Structures & Algorithms (Python)
