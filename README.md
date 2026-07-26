@@ -1,59 +1,126 @@
-# Hi, I'm Nancy Sharma 👋
+# Hi there, I'm Nancy Sharma 👋
 
-💻 CSE Student passionate about Python, AI, and problem-solving.
+🎓 B.Tech Computer Science & Engineering Student (2027)
 
-🤖 Building AI & LLM-based applications
+💡 Passionate about Artificial Intelligence, Data Science, Machine Learning, and Software Development.
 
-📊 Exploring Data Analytics
-
-📚 Continuously learning and improving through projects
-
-🚀 Open to Internship Opportunities
+🚀 Currently building projects, solving DSA problems, and continuously improving my technical skills.
 
 ---
 
-## Skills
+## 👩‍💻 About Me
 
-Languages:
-Python, SQL, C++
-
-Libraries:
-Pandas, NumPy, Matplotlib, Scikit-Learn
-
-AI:
-LangChain, Ollama, Prompt Engineering
-
-Web:
-HTML, CSS, Streamlit, Flask
-
-Tools:
-Git, GitHub, VS Code
+- 🐍 Python Developer
+- 🤖 AI & Machine Learning Enthusiast
+- 📊 Learning Data Science through hands-on projects
+- 🧠 Solving Data Structures & Algorithms in Python
+- 🌱 Exploring LLMs, LangChain, and Generative AI
+- 💼 Looking for Internship Opportunities in AI, Data Science, and Python Development
 
 ---
 
-## Projects
+## 🛠️ Tech Stack
 
-- 🤖 [AI-Powered Exam Doubt Solver](https://github.com/Nancy-sharma01/Exam_doubt_solver_chatbot)
-- 📚 [BookRight Manager](https://github.com/Nancy-sharma01/bookright-Manager)
-- 🗺️ [Treasure Hunt](https://github.com/Nancy-sharma01/Treasure-hunt)
-- 🚫 Mitigating National Security Risks of LLMs (Ongoing)
+### Languages
+- Python
+- SQL
+- C++
+- C
 
----
+### Data Science
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn
 
-## Currently Learning
-
-- Data Analytics
-- DSA in Python
-- Power BI
+### AI / Machine Learning
+- LangChain
+- Ollama
+- Prompt Engineering
 - Machine Learning
 
+### Development
+- Streamlit
+- Flask
+- HTML
+- CSS
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
+
 ---
 
-## Connect With Me
+## 🚀 Featured Projects
 
-📧 Email: nancysharma11bh@gmail.com
+### 🤖 AI Shield *(Ongoing)*
+AI-powered security system focused on detecting and mitigating malicious prompts and LLM security risks.
 
-🔗 LinkedIn:
+### 🎓 AI-Powered Exam Doubt Solver
+Offline AI chatbot built using **LangChain**, **Ollama**, **Llama 3.2**, and **Streamlit** to answer Computer Science questions.
+
+🔗 https://github.com/Nancy-sharma01/Exam_doubt_solver_chatbot
+
+---
+
+### 📚 BookRight Manager
+Python application for efficient book inventory and management.
+
+🔗 https://github.com/Nancy-sharma01/bookright-Manager
+
+---
+
+### 🎮 Treasure Hunt
+A fun Python console game demonstrating problem-solving and programming fundamentals.
+
+🔗 https://github.com/Nancy-sharma01/Treasure-hunt
+
+---
+
+### 🚫 Spam Detection *(Machine Learning)*
+Building a machine learning model to classify spam and legitimate messages.
+
+---
+
+## 📈 Current Learning Journey
+
+✔️ Data Structures & Algorithms (Python)
+
+✔️ Data Science
+
+✔️ Machine Learning
+
+✔️ Power BI
+
+✔️ Generative AI
+
+✔️ Building End-to-End AI Applications
+
+---
+
+## 🌟 2026 Goals
+
+- 🚀 Secure a Data Science / AI Internship
+- 📚 Complete my Data Science Journey repository
+- 💻 Build 10+ quality Data Science & AI projects
+- 🧩 Strengthen DSA in Python
+- 🌱 Contribute consistently on GitHub
+
+---
+
+## 📫 Connect with Me
+
+📧 **Email**
+nancysharma11bh@gmail.com
+
+💼 **LinkedIn**
 www.linkedin.com/in/nancy-sharma-01691b2a8
 
+🐙 **GitHub**
+https://github.com/Nancy-sharma01
+
 ---
+
+⭐ *"Learning by building, improving one project at a time."*
