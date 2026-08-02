@@ -53,8 +53,9 @@
 
 ## 🚀 Featured Projects
 
-### 🤖 AI Shield *(Ongoing)*
+### 🤖 AI Shield 
 AI-powered security system focused on detecting and mitigating malicious prompts and LLM security risks.
+🔗 https://github.com/Nancy-sharma01/AI-Shield
 
 ### 🎓 AI-Powered Exam Doubt Solver
 Offline AI chatbot built using **LangChain**, **Ollama**, **Llama 3.2**, and **Streamlit** to answer Computer Science questions.
