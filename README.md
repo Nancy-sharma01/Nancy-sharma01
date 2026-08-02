@@ -63,7 +63,7 @@ Offline AI chatbot built using **LangChain**, **Ollama**, **Llama 3.2**, and **S
 
 ---
 
-###🚗 **Car Price Predictor**
+### 🚗 Car Price Predictor
 
 Multi-page ML web app that predicts used car selling prices — compares Random Forest, Gradient Boosting & XGBoost (tuned with RandomizedSearchCV), with a Streamlit interface for login, model comparison, and instant price prediction.
 
