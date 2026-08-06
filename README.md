@@ -29,6 +29,7 @@
 - NumPy
 - Pandas
 - Matplotlib
+- Seaborn
 - Scikit-learn
 
 ### AI / Machine Learning
