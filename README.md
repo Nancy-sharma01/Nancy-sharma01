@@ -40,6 +40,7 @@
 
 ### Development
 - Streamlit
+- Flask
 - HTML
 - CSS
 
