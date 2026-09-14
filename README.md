@@ -12,7 +12,7 @@
 
 - 🐍 Python Developer
 - 🤖 AI & Machine Learning Enthusiast
-- 📊 Learning Data Science through hands-on projects
+- 📊 Learning Data analytics through hands-on projects
 - 🧠 Solving Data Structures & Algorithms in Python
 - 🌱 Exploring LLMs, LangChain, and Generative AI
 - 💼 Looking for Internship Opportunities in AI, Data Science, and Python Development
