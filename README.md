@@ -48,6 +48,7 @@
 - GitHub
 - VS Code
 - Jupyter Notebook
+- PyCharm
 
 ---
 
