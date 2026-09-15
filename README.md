@@ -1,54 +1,58 @@
-# Hi there, I'm Nancy Sharma 👋
+# Hi, I'm Nancy Sharma 👋
 
-🎓 B.Tech Computer Science & Engineering Student (2027)
+🎓 **B.Tech CSE (AI/ML) Student | 2027**
 
-💡 Passionate about Artificial Intelligence, Data Science, Machine Learning, and Software Development.
+> *Building with Python, exploring AI, and turning ideas into practical projects.*
 
-🚀 Currently building projects, solving DSA problems, and continuously improving my technical skills.
+I'm a Computer Science student passionate about **Artificial Intelligence, Machine Learning, Data Science, and Software Development**. I enjoy learning by building projects, experimenting with new technologies, and solving problems with Python.
+
+🚀 Currently focused on **AI/ML projects, Generative AI, SQL, and DSA** while preparing for opportunities in the tech industry.
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🐍 Python Developer
-- 🤖 AI & Machine Learning Enthusiast
-- 📊 Learning Data analytics through hands-on projects
-- 🧠 Solving Data Structures & Algorithms in Python
-- 🌱 Exploring LLMs, LangChain, and Generative AI
-- 💼 Looking for Internship Opportunities in AI, Data Science, and Python Development
+* 🐍 **Python Developer** with a strong interest in AI/ML
+* 🤖 Exploring **Generative AI, LLMs & LangChain**
+* 📊 Building practical **Data Science & Machine Learning projects**
+* 🧠 Practicing **Data Structures & Algorithms in Python**
+* 🗄️ Working with **SQL & data manipulation**
+* 🚀 Turning ideas into projects and continuously improving my skills
+* 💼 Open to **Internships & Entry-Level Opportunities** in AI/ML, Data Science & Python Development
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-- Python
-- SQL
+### 💻 Languages
 
-### Data Science
-- NumPy
-- Pandas
-- Matplotlib
-- Seaborn
-- Scikit-learn
+`Python` `SQL`
 
-### AI / Machine Learning
-- LangChain
-- Ollama
-- Prompt Engineering
-- Machine Learning
+### 📊 Data Science & ML
 
-### Development
-- Streamlit
-- HTML
-- CSS
+`NumPy` `Pandas` `Matplotlib` `Seaborn` `Scikit-learn`
 
-### Tools
-- Git
-- GitHub
-- VS Code
-- Jupyter Notebook
-- PyCharm
+### 🤖 AI & Generative AI
+
+`Machine Learning` `LangChain` `Ollama` `Prompt Engineering` `LLMs`
+
+### 🌐 Development
+
+`Streamlit` `HTML` `CSS`
+
+### 🔧 Tools & Platforms
+
+`Git` `GitHub` `VS Code` `Jupyter Notebook` `PyCharm`
+
+---
+
+## 🚀 What I'm Working On
+
+🔹 Building **AI-powered applications**
+🔹 Strengthening my **DSA & problem-solving skills**
+🔹 Practicing **SQL & Data Science**
+🔹 Exploring **LLMs and Generative AI**
+🔹 Creating projects that solve practical problems
 
 ---
 
