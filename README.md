@@ -2,7 +2,7 @@
 
 # Hi, I'm Nancy Sharma 👋
 
-### 🎓 B.Tech CSE (AI/ML) Student · Class of 2027
+### 🎓 B.Tech CSE Student · Class of 2027
 
 **Building with Python · Exploring AI · Turning ideas into practical solutions** 🚀
 
