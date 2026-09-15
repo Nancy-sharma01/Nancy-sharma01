@@ -1,64 +1,61 @@
 # Hi, I'm Nancy Sharma 👋
 
-🎓 **B.Tech CSE (AI/ML) Student | 2027**
+### 🎓 B.Tech CSE (AI/ML) Student · 2027
 
-> *Building with Python, exploring AI, and turning ideas into practical projects.*
+> **Building with Python. Exploring AI. Turning ideas into practical solutions.** 🚀
 
-I'm a Computer Science student passionate about **Artificial Intelligence, Machine Learning, Data Science, and Software Development**. I enjoy learning by building projects, experimenting with new technologies, and solving problems with Python.
+I'm a Computer Science student passionate about **Artificial Intelligence, Machine Learning, Data Science, and Software Development**. I enjoy learning through hands-on projects, experimenting with new technologies, and solving problems with Python.
 
-🚀 Currently focused on **AI/ML projects, Generative AI, SQL, and DSA** while preparing for opportunities in the tech industry.
+**Currently:** 🤖 AI/ML · ✨ Generative AI · 🗄️ SQL · 🧩 DSA
 
 ---
 
 ## 👩‍💻 About Me
 
-* 🐍 **Python Developer** with a strong interest in AI/ML
-* 🤖 Exploring **Generative AI, LLMs & LangChain**
-* 📊 Building practical **Data Science & Machine Learning projects**
-* 🧠 Practicing **Data Structures & Algorithms in Python**
-* 🗄️ Working with **SQL & data manipulation**
-* 🚀 Turning ideas into projects and continuously improving my skills
-* 💼 Open to **Internships & Entry-Level Opportunities** in AI/ML, Data Science & Python Development
+- 🐍 **Python Developer** with a strong interest in AI/ML
+- 🤖 Exploring **Generative AI, LLMs & LangChain**
+- 📊 Building practical **Data Science & Machine Learning projects**
+- 🧠 Strengthening **DSA & problem-solving with Python**
+- 🗄️ Working with **SQL & data-driven applications**
+- 🚀 Interested in building **end-to-end AI applications**
+- 💼 Open to **AI/ML, Data Science & Python opportunities**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
-
+**Languages**  
 `Python` `SQL`
 
-### 📊 Data Science & ML
-
+**Data Science & ML**  
 `NumPy` `Pandas` `Matplotlib` `Seaborn` `Scikit-learn`
 
-### 🤖 AI & Generative AI
+**AI & Generative AI**  
+`Machine Learning` `LangChain` `Ollama` `LLMs` `Prompt Engineering`
 
-`Machine Learning` `LangChain` `Ollama` `Prompt Engineering` `LLMs`
-
-### 🌐 Development
-
+**Development**  
 `Streamlit` `HTML` `CSS`
 
-### 🔧 Tools & Platforms
-
+**Tools**  
 `Git` `GitHub` `VS Code` `Jupyter Notebook` `PyCharm`
 
 ---
 
-## 🚀 What I'm Working On
+## 🚀 What I'm Building
 
-🔹 Building **AI-powered applications**
-🔹 Strengthening my **DSA & problem-solving skills**
-🔹 Practicing **SQL & Data Science**
-🔹 Exploring **LLMs and Generative AI**
-🔹 Creating projects that solve practical problems
+| 🧠 Focus | 🔨 What I'm Doing |
+|---|---|
+| 🤖 **AI & ML** | Building practical intelligent applications |
+| 📊 **Data Science** | Exploring, analyzing & visualizing data |
+| ✨ **Generative AI** | Learning LLMs, LangChain & AI workflows |
+| 🧩 **DSA** | Improving problem-solving with Python |
+| 🗄️ **SQL** | Practicing queries & data manipulation |
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🤖 AI Shield 
+### 🤖 AI Shield
 AI-powered security system focused on detecting and mitigating malicious prompts and LLM security risks.
 
 🔗 https://github.com/Nancy-sharma01/AI-Shield
@@ -73,8 +70,7 @@ Offline AI chatbot built using **LangChain**, **Ollama**, **Llama 3.2**, and **S
 ---
 
 ### 🚗 Car Price Predictor
-
-Multi-page ML web app that predicts used car selling prices — compares Random Forest, Gradient Boosting & XGBoost (tuned with RandomizedSearchCV), with a Streamlit interface for login, model comparison, and instant price prediction.
+Multi-page ML web app that predicts used car selling prices by comparing **Random Forest, Gradient Boosting & XGBoost**, with hyperparameter tuning using `RandomizedSearchCV`.
 
 🔗 https://github.com/Nancy-sharma01/car-price-prediction
 
@@ -96,45 +92,32 @@ A fun Python console game demonstrating problem-solving and programming fundamen
 
 ## 📈 Current Learning Journey
 
-✔️ Data Structures & Algorithms (Python)
+**DSA with Python** → **Data Science** → **Machine Learning**  
+**Power BI** → **Generative AI** → **End-to-End AI Applications**
 
-✔️ Data Science
-
-✔️ Machine Learning
-
-✔️ Power BI
-
-✔️ Generative AI
-
-✔️ Building End-to-End AI Applications
+> *Learning by building, one project at a time.* 🌱
 
 ---
 
-## 🌟 2026 Goals
+## 🎯 2026 Goals
 
-- 🚀 Secure a Data Science / AI Internship
-- 📚 Complete my Data Science Journey repository
-- 💻 Build 10+ quality Data Science & AI projects
-- 🧩 Strengthen DSA in Python
-- 🌱 Contribute consistently on GitHub
-
----
-
-## 📫 Connect with Me
-
-📧 **Email**
-nancysharma11bh@gmail.com
-
-💼 **LinkedIn**
-www.linkedin.com/in/nancy-sharma-01691b2a8
-
-🐙 **GitHub**
-https://github.com/Nancy-sharma01
+- 🚀 Secure an **AI / Data Science Internship**
+- 📚 Complete my **Data Science Journey** repository
+- 💻 Build **10+ meaningful Data Science & AI projects**
+- 🧩 Strengthen **DSA & problem-solving in Python**
+- ✨ Explore and build with **Generative AI & LLMs**
+- 🌱 Maintain a consistent **GitHub contribution journey**
 
 ---
 
-✨ A Little About My Journey
+## 🌐 Let's Connect
 
-Learn → Build → Break → Improve → Repeat.
+📧 **Email** · nancysharma11bh@gmail.com  
+💼 **LinkedIn** · www.linkedin.com/in/nancy-sharma-01691b2a8  
+🐙 **GitHub** · https://github.com/Nancy-sharma01
 
-Learning by building, one project at a time. 🚀
+---
+
+### 💭 My Learning Philosophy
+
+**Learn → Build → Experiment → Improve → Repeat.** 🚀
