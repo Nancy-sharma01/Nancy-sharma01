@@ -133,4 +133,8 @@ https://github.com/Nancy-sharma01
 
 ---
 
-⭐ *"Learning by building, improving one project at a time."*
+✨ A Little About My Journey
+
+Learn → Build → Break → Improve → Repeat.
+
+Learning by building, one project at a time. 🚀
